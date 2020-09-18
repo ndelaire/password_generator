@@ -10,9 +10,9 @@
 //   generatePassword
 //
 // * Gather user input with prompt's and confirm's
-var lowercaseArr = ["a","b", "c","d"]
-var uppercaseArr = ["A", "B", "C", "D"]
-var numbersArr = [1,2,3,4]
+var lowercaseArr = ["a","b", "c","d", "e", "f", "g", "h", "i", "j", "m","l", "n", "o", "p", "q", "r", "s", "t","u", "v","w","x", "y,", "z"]
+var uppercaseArr = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z"]
+var numbersArr = [0,1,2,3,4,5,6,7,8,9]
 var specialCharArr = ["@", "!", "%", "^"]
 // Code I started, trying something else and will come back 
 
