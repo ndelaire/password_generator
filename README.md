@@ -30,9 +30,10 @@ Provided they are within the range, they are then asked to confirm:
 
 They don't need to say "okay" to all of these questions, but need to answer "okay to at least one. I used an if else statement to confirm this and return them to the start if it does not meet the criteria. If the criteria is met, a for loop is used to generate a random combination of the arrays. Once this is done, the password is generated into the box. 
 
-![Password Generator Demo](./assets/passwordgenerator.gif)
+![Password Generator Demo](./Assets/passwordgenerator.gif)
 # Framework 
 
 JavaScript
 
 
+git s
