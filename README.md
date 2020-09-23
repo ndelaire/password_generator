@@ -1,6 +1,6 @@
 # Homework 3 : Password Generator
 * You can take a look at the [project page](https://github.com/ndelaire/password_generator)
-* View the [GitHub page](https://ndelaire.github.io/password_generator/)
+* View the [deployed GitHub page](https://ndelaire.github.io/password_generator/)
 
 ## Table of Contents
 * Project Overview
@@ -39,5 +39,5 @@ JavaScript
 None at this time
 
 ## Contact
-Nadine Delaire - ndelaire16@gmail.com 
-Project Link: https://github.com/ndelaire/password_generator
+* Nadine Delaire - ndelaire16@gmail.com 
+* Project Link: https://github.com/ndelaire/password_generator
